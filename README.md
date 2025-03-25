@@ -85,7 +85,7 @@ The model shows general trends but room for improvement in predicting exact rang
 ## Technical Appendix
 
 ### Model Limitations
-- **Data Constraints**: The dataset is limited to Washington State and does not include details on battery chemistry or technology.
+- **Data Constraints**: The dataset is limited to United State and does not include details on battery chemistry or technology.
 - **Assumptions**: Linear improvement trends and current manufacturer R&D priorities were assumed to remain constant.
 
 ### Improvement Opportunities
