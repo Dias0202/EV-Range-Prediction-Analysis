@@ -79,6 +79,7 @@ The model shows general trends but room for improvement in predicting exact rang
   - **Nissan**: ~2.0%/year
 - **2030 Milestones**: Tesla could approach an 800-mile range, while industry averages may cross 350 miles.
 
+![Projection of EV Range 2025-2030](Projection.png)
 ---
 
 ## Technical Appendix
@@ -106,9 +107,22 @@ The model shows general trends but room for improvement in predicting exact rang
 
 ---
 
-## Running the Project
-
-1. Clone this repository:
+1. **Clone this repository**:
+   First, clone the repository to your local machine using the following command:
    ```bash
    git clone https://github.com/yourusername/electric-vehicle-analysis.git
    cd electric-vehicle-analysis
+2. **Install dependencies**:
+   Install all the required libraries by using the requirements.txt file:
+   ```bash
+   pip install -r requirements.txt
+
+---
+## Acknowledgements
+Dataset Source: Kaggle - Electric Vehicle Population Data
+
+Dataset Citation: DOI 10.34740/kaggle/dsv/4693417
+   
+  
+   
+   
